@@ -5,6 +5,7 @@ for x in xrange(0,10):
 	print(lista)
 
 print("ok funziona") 
+print("ok funziona pure commit") 
 
 
 
